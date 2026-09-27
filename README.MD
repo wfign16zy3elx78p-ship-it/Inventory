@@ -26,9 +26,6 @@
 7. Navigate to <code>InventorySystem/jar/</code>
 8. Open CMD/Terminal and type: <code>java -jar InventorySystem.jar</code>
 9. You're all set!
- 
-**Watch this video for more:**
-[https://youtu.be/Q35IDSXXz3Y](https://youtu.be/Q35IDSXXz3Y)
 
 ## Features
 - Dashboard
